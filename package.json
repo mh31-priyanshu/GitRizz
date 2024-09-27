@@ -1,0 +1,18 @@
+{
+  "name": "gitwiz",
+  "version": "1.0.0",
+  "description": "A CLI tool to automate Git commands",
+  "type": "module",
+  "main": "gitwiz.js",
+  "bin": {
+    "gitwiz": "./gitwiz.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^11.0.2"
+  }
+}
